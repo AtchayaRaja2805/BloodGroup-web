@@ -1,0 +1,14 @@
+.dodo{
+    margin-top:50px;
+    padding-top:50px;
+    padding-bottom:50px;
+    position: relative;
+    font-size: x-large;
+    font-weight: bold;
+    left: 500px;
+    background-color: aqua;
+    padding-left: 50px;
+    width: 400px;
+    border-radius: 50px;
+    padding-bottom: 30px;
+}
